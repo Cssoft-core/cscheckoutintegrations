@@ -1,5 +1,5 @@
 {
-    "name": "cssoft/module-cscheckout-integrations",
+    "name": "cssoft/cscheckoutintegrations",
     "description": "Code for third-party modules that requires additional logic at cscheckout page",
     "keywords": [
         "cscheckout"
